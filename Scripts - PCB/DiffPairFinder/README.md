@@ -11,5 +11,6 @@ Run with or without a GUI. In GUI mode, you can add pairs to a selected class or
 ![GUI](gui.jpg)
 
 ## Credits
+- Created by Stephen Thompson
 - From the Altium Script Examples: Matt Berggren & David Parker's PCB_Class_Generator_Form.pas on how to add classes and nets to classes
 - GPT4o
