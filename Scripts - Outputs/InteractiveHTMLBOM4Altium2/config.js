@@ -1,0 +1,1 @@
+var config = {"show_fabrication": false, "redraw_on_drag": true, "highlight_pin1": "none", "offset_back_rotation": false, "kicad_text_formatting": true, "dark_mode": false, "bom_view": "left-right", "board_rotation": 0.0, "checkboxes": "Sourced,Placed", "show_silkscreen": true, "fields": ["Value", "Footprint"], "show_pads": true, "layer_view": "FB"}
